@@ -1,3 +1,5 @@
+"""counting sort"""
+
 def countingsort( aList, k ):
 	counter = [0] * ( k + 1 )
 	for i in aList:
