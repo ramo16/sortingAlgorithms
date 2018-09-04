@@ -1,5 +1,4 @@
-#suhail merge_sort
-
+#merge_sort
 
 def merge_sort(alist):
     print alist
