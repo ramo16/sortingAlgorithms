@@ -1,3 +1,5 @@
+"""bubble sort"""
+
 def bubble_sort(array):
 	for j in range(len(array)-1,0,-1):
 		for i in range(j):
