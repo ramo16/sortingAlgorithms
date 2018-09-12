@@ -1,3 +1,5 @@
+"""short bubble sort"""
+
 def shortBubbleSort(alist):
     exchanges = True
     passnum = len(alist)-1
